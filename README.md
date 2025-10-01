@@ -26,36 +26,21 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 
 <br>
 
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Conéctate Conmigo</b>
 
 <br>
 
-<p align="center"><!-----Social Accounts------>
-
 <p align="center">
-
- <a href="https://mrvengador.github.io/Portfolio">
- <img border="0" alt="Mi Portafolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
-
- <a href="https://www.linkedin.com/in/cristian-peña-villar">
- <img border="0" alt="LinkedIn de Cristian" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-
-<a href="https://mrvengador.itch.io">
-    <img border="0" alt="Mi Itch.io" src="https://img.shields.io/badge/-itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white&labelColor=transparent"/>
-</a>
-<!--  <a href="URL_DE_TU_TWITTER">
- <img border="0" alt="Twitter de Cristian" src="https://img.icons8.com/nolan/40/twitter.png"/>
- </a>
-
-<!--  <a href="URL_DE_TU_INSTAGRAM">
- <img border="0" alt="Instagram de Cristian" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
- </a> -->
-
- <a href="mailto:cristian.penavillar@gmail.com">
- <img border="0" alt="Correo de Cristian" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
- </a>
+    <a href="https://mrvengador.github.io/Portfolio">
+        <img alt="Mi Portafolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+    </a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cristian-peña-villar">
+        <img alt="LinkedIn de Cristian" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+    </a>&nbsp;&nbsp;<a href="https://mrvengador.itch.io">
+        <img alt="Mi Itch.io" src="https://img.shields.io/badge/-itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white&labelColor=transparent"/>
+    </a>&nbsp;&nbsp;<a href="mailto:cristian.penavillar@gmail.com">
+        <img alt="Correo de Cristian" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+    </a>
 </p>
 
 <br>
@@ -67,17 +52,11 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%23-%232370ED.svg?logo=csharp&logoColor=white">
-  </a> 
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  </a>&nbsp;&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-
-  <a href="https://www.python.org" target="_blank">
+  </a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  </a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a>
 </p>
@@ -166,8 +145,7 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 ## <b>💪Frase Célebre</b>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="Divide+y+Vencerás";+"El+conocimiento+es+poder";+"Primero,+resuelve+el+problema.+Luego,+escribe+el+código")](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00ffff&center=true&vCenter=true&width=900&height=110&lines="Divide+y+Vencerás";+"El+conocimiento+es+poder";+"Primero,+resuelve+el+problema.+Luego,+escribe+el+código")](https://git.io/typing-svg)
 <br>
 
 #### <p align="center"><b>¡Gracias por visitar mi perfil! 🚀</b></p>
