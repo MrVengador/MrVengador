@@ -30,7 +30,9 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 
 <br>
 
-<p align="left">
+<p align="center"><!-----Social Accounts------>
+
+<p align="center">
 
  <a href="https://mrvengador.github.io/Portfolio">
  <img border="0" alt="Mi Portafolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
