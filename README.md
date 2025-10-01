@@ -30,7 +30,7 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 
 <br>
 
-<p align="center">
+<p align="left">
 
  <a href="https://mrvengador.github.io/Portfolio">
  <img border="0" alt="Mi Portafolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
@@ -62,7 +62,7 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 
 ### 📋 Lenguajes y Frameworks
 
-<p align="left"> 
+<p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%23-%232370ED.svg?logo=csharp&logoColor=white">
   </a> 
