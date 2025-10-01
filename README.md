@@ -19,9 +19,9 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 
 <br>
 
-- 🔭 Actualmente trabajando en **proyectos personales de realidad virtual** y **desarrollo Frontend**.
+- 🔭 Actualmente trabajo en **proyectos personales de realidad virtual** y **desarrollo Frontend**.
 - 👯 Busco colaborar en **proyectos de videojuegos** (Unity o Unreal) y **desarrollo web con React**.
-- 🌱 Aprendiendo activamente sobre **Computer Vision** y **Machine Learning** (como en el original).
+- 🌱 Aprendiendo activamente sobre programación y tecnología.
 - 💬 Pregúntame sobre **Unity**, **diseño de juegos** o **desarrollo C#**.
 
 <br>
@@ -32,13 +32,16 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 <br>
 
 <p align="center">
-    <a href="https://mrvengador.github.io/Portfolio">
+    <a href="https://mrvengador.github.io/Portfolio" style="text-decoration: none;">
         <img alt="Mi Portafolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
-    </a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/cristian-peña-villar">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/cristian-peña-villar" style="text-decoration: none;">
         <img alt="LinkedIn de Cristian" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-    </a>&nbsp;&nbsp;<a href="https://mrvengador.itch.io">
+    </a>&nbsp;&nbsp;
+    <a href="https://mrvengador.itch.io" style="text-decoration: none;">
         <img alt="Mi Itch.io" src="https://img.shields.io/badge/-itch.io-%23FA5C5C.svg?logo=itch.io&logoColor=white&labelColor=transparent"/>
-    </a>&nbsp;&nbsp;<a href="mailto:cristian.penavillar@gmail.com">
+    </a>&nbsp;&nbsp;
+    <a href="mailto:cristian.penavillar@gmail.com" style="text-decoration: none;">
         <img alt="Correo de Cristian" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
     </a>
 </p>
@@ -46,69 +49,72 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades y Herramientas</b>
-
 ### 📋 Lenguajes y Frameworks
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%232370ED.svg?logo=csharp&logoColor=white">
-  </a>&nbsp;&nbsp;<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a>&nbsp;&nbsp;<a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
-  </a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;">  
+        <img alt="C#" src="https://img.shields.io/badge/C%23-%232370ED.svg?logo=csharp&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/cpp/" target="_blank" style="text-decoration: none;">  
+        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
+        <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">  
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    </a>
 </p>
+
+---
 
 ### 💻 Desarrollo Frontend
 
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+    <a href="https://www.w3.org/html/" target="_blank" style="text-decoration: none;">  
+        <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+    </a>   
   
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;">
+        <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+    </a> 
   
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"/>
-  </a>
+    <a href="https://reactjs.org/" target="_blank" style="text-decoration: none;"> 
+        <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"/>
+    </a>
  
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
-  </a>
+    <a href="https://getbootstrap.com" target="_blank" style="text-decoration: none;"> 
+        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
+    </a>
   
-  <a href="https://tailwindcss.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  </a>
+    <a href="https://tailwindcss.com" target="_blank" style="text-decoration: none;"> 
+        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+    </a>
 </p>
+
+---
 
 ### 🕹️ Motores y Programas de Desarrollo
 
 <p align="left"> 
-  <a href="https://unity.com/" target="_blank"> 
-   <img alt="Unity" src="https://img.shields.io/badge/Unity-%23202A38.svg?logo=unity&logoColor=white">
-  </a>   
+    <a href="https://unity.com/" target="_blank" style="text-decoration: none;"> 
+        <img alt="Unity" src="https://img.shields.io/badge/Unity-%23202A38.svg?logo=unity&logoColor=white">
+    </a>   
   
-  <a href="https://www.unrealengine.com/" target="_blank">
-    <img alt="Unreal" src="https://img.shields.io/badge/Unreal-%23326ce5.svg?logo=unrealengine&logoColor=white">
-  </a> 
+    <a href="https://www.unrealengine.com/" target="_blank" style="text-decoration: none;">
+        <img alt="Unreal" src="https://img.shields.io/badge/Unreal-%23326ce5.svg?logo=unrealengine&logoColor=white">
+    </a> 
   
- <a href="https://www.blender.org/" target="_blank"> 
-    <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
-  </a>
- 
- <a href="https://github.com/" target="_blank"> 
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  </a>
+    <a href="https://www.blender.org/" target="_blank" style="text-decoration: none;"> 
+        <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;"> 
+        <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
+    </a>
+    <a href="https://github.com/" target="_blank" style="text-decoration: none;"> 
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+    </a>
 </p>
-
 ### 💾 Bases de Datos
 
 <p align="left"> 
