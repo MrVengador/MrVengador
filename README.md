@@ -30,7 +30,8 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 
 <br>
 
-<p align="center"><p align="center">
+<p align="center">
+
  <a href="https://mrvengador.github.io/Portfolio">
  <img border="0" alt="Mi Portafolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
@@ -46,7 +47,7 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
  <img border="0" alt="Twitter de Cristian" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
- <a href="URL_DE_TU_INSTAGRAM">
+<!--  <a href="URL_DE_TU_INSTAGRAM">
  <img border="0" alt="Instagram de Cristian" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a> -->
 
