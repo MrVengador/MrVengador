@@ -125,6 +125,7 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
    <a href="https://www.mongodb.com/" target="_blank"> 
    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
   </a>  
+  <a href="https://www.talend.com/products/talend-open-studio/" target="_blank">     <img alt="Talend Open Studio" src="https://img.shields.io/badge/Talend-%23ff6d00.svg?logo=talend&logoColor=white">   </a>
 </p>
 
 ### 🖼️ Diseño Gráfico y Multimedia
