@@ -33,7 +33,7 @@ Me considero una persona creativa y apasionada. Disfruto aprender constantemente
 <br>
 
 <p align="center">
-    <a href="https://mrvengador.github.io/Portfolio" style="text-decoration: none;">
+    <a href="https://mrvengador.github.io/Portfolio/GameDev" style="text-decoration: none;">
         <img alt="Mi Portafolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/cristian-peña-villar" style="text-decoration: none;">
